@@ -68,7 +68,7 @@ To run the project locally, follow these steps:
 
   ```json
   {
-    "email": "your-email@example.com",
+    "email": "timberwamalwa@yahoo.com",
     "iso_date_time": "2025-01-29T12:00:00.000Z",
     "repo_url": "https://github.com/10-menachi/hng_12_stage_zero"
   }
@@ -79,13 +79,13 @@ To run the project locally, follow these steps:
   - The response will look like this:
     ```json
     {
-      "email": "your-email@example.com",
+      "email": "timberwamalwa@yahoo.com",
       "iso_date_time": "2025-01-29T12:00:00.000Z",
       "repo_url": "https://github.com/10-menachi/hng_12_stage_zero"
     }
     ```
 
-#### Backlink to Programming Language/Stack
+#### Programming Language
 
 This project is implemented using **Node.js**. If you're interested in hiring Node.js developers, you can check out the following link:  
 [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
