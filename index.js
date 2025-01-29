@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
     res.status(200).json({
       email: "timberwamalwa@yahoo.com",
       current_datetime: isoDate,
-      github_url: "https://github.com/10-menachi/hng_12_stage_zero.git",
+      github_url: "https://github.com/10-menachi/hng_12_stage_zero",
     });
   } catch (error) {
     res.status(500).json({ error: "Internal server error" });
